@@ -1,4 +1,3 @@
-
 module ps2_mouse(
     input wire clk,             // FPGA clock
     input wire reset,
